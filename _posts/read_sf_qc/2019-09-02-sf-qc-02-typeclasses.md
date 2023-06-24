@@ -10,6 +10,7 @@ tags:
   - QC (Quickcheck)
   - Coq
   - 笔记
+published: false
 ---
 
 Considerring printing different types with this common idiom:
