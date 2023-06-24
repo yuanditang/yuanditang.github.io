@@ -9,6 +9,7 @@ tags:
     - 知乎
     - Web
     - UX/UI
+published: false
 ---
 
 > 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/21921588/answer/69680480)，也被刊登于[优秀网页设计](http://www.uisdc.com/head-first-front-end)等多个网站上 ;)
@@ -80,7 +81,7 @@ alert("Hello World!")
 
 就这一行，就可以在浏览器里弹出 Hello World 啦！
 <br>
-<br>在了解一些基础的 JavaScript 概念（变量、函数、基本类型）后，我们可以直接去学习 jQuery，你不用知道它具体是什么（它是一个 JavaScript 代码库），你只要知道它可以显著地降低你编写交互的难度就好了：
+<br>在了解一些基础的 JavaScript 概念（变量、函数、基本类型）后，我们可以直接去学习 jQuery，你不用知道它具体是什么（它是一个 JavaScript 代码库），你只要知道它可以显着地降低你编写交互的难度就好了：
 <br>
 
 ```js
