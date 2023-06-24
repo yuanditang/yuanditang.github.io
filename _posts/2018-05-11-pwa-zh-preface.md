@@ -8,6 +8,7 @@ catalog:      true
 tags:
     - Web
     - PWA
+published: false
 ---
 
 > 「博文视点」邀请我给[《PWA实战：面向下一代的Progressive Web APP》](https://union-click.jd.com/jdc?e=&p=AyIGZRhfEgoaBVUbXBYyEgRXHF8UChI3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUBEABRGlMVMmZMDxwsR2cWZVdbO2ocFV9cSB5qfnILWStaJQITBlcTWhYLEQJlK1sSMkRpVRpaFAMTAlUeWCUDIgdSG1oXARIPUx5eFAMiAFUSaxYBFAJVElgSCw4FURxTFAoiN2UYayUyEjdWKxl7UEEPUR5dFFYWBgYTXhZXFA5WTlMSVxoDUh9TQFFBAVUrWRQDFg4%3D) 写的推荐序。
