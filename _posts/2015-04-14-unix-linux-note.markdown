@@ -8,6 +8,7 @@ header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
   - 笔记
+published: false
 ---
 
 > This document is not completed and will be updated anytime.
