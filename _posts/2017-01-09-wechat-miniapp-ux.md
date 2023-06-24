@@ -9,6 +9,7 @@ tags:
   - Web
   - 微信
   - UX/UI
+published: false
 ---
 
 > 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/24782839)，转载请保留链接 ;)
@@ -41,7 +42,7 @@ tags:
 
 先说 UI 性能，截止目前为止，小程序的大部分组件都还是使用 WebView 渲染的，这意味着在大多数组件场景下，小程序的 UI 性能不可能比 Web 更高。但是：
 
-1.  **小程序团队非常 tricky 地把力气都用在了刀刃上**：每一个使用原生 UI 渲染、或在自定义 WebView 中优化过的组件都对应着 Mobile Web 中的一个老大难问题。比如在 iOS 上让顶部或底部的 Tab Bar "Fixed"，比如视频的自动播放与控制力，比如地图、textarea 等，可以说利用有限的资源显著提高了小程序的可用性。
+1.  **小程序团队非常 tricky 地把力气都用在了刀刃上**：每一个使用原生 UI 渲染、或在自定义 WebView 中优化过的组件都对应着 Mobile Web 中的一个老大难问题。比如在 iOS 上让顶部或底部的 Tab Bar "Fixed"，比如视频的自动播放与控制力，比如地图、textarea 等，可以说利用有限的资源显着提高了小程序的可用性。
 2.  由于 Web 前端开发者的良莠不齐，小程序通过限定一组 Web 技术的子集，可以很好的约束开发者写出性能与体验不低于基线的代码，这与 Google 的 AMP 异曲同工。（其实这是大家觉得小程序体验比 Web 好的很大一个原因）  
     
 3.  由于小程序中的 wxml 与 wxss 都是比较 high-level 的抽象，所以微信团队可以在不影响开发者源代码的情况下，通过升级 Runtime 与组件的实现不断优化小程序的性能，比如完全迁移到类似 React Native 或 Weex 这样的 JS-to-Native 方案。
