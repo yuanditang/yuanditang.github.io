@@ -1,4 +1,4 @@
-Hey, I am Yuandi Tang. I just graduated from [Boston University](bu.edu).
+Hey, I am Yuandi Tang. I just graduated from [Boston University](http://www.bu.edu).
 
 I consider myself a marketing professional with seven years of experience who is now transitioning to a data track role. I have honed my marketing strategy, campaign management, and customer engagement skills throughout my career, and I am excited to leverage my expertise in a data-driven capacity.
 
