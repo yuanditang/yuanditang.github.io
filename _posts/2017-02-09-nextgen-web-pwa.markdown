@@ -10,6 +10,7 @@ catalog:    true
 tags:
     - Web
     - PWA
+published: false
 ---
 
 
@@ -30,7 +31,7 @@ tags:
 
 在桌面设备上，由于网络条件稳定，屏幕尺寸充分，交互方式趋向于多任务，这两点造成的负面影响对比 web 应用免于安装、随叫随到、无需更新等优点，瑕不掩瑜。但是在移动时代，脆弱的网络连接与全新的人机交互方式使得这两个问题被无限放大，严重制约了 web 应用在移动平台的发展。在用户眼里，原生应用不会出现「白屏」，清一色都摆在主屏幕上；而 web 应用则是浏览器这个应用中的应用，使用起来并不方便，而且加载也比原生应用要慢。
 
-Progressive Web Apps（以下简称 PWA）以及构成 PWA 的一系列关键技术的出现，终于让我们看到了彻底解决这两个平台级别问题的曙光：能够显著提高应用加载速度、甚至让 web 应用可以在离线环境使用的 Service Worker 与 Cache Storage；用于描述 web 应用元数据（metadata）、让 web 应用能够像原生应用一样被添加到主屏、全屏执行的 Web App Manifest；以及进一步提高 web 应用与操作系统集成能力，让 web 应用能在未被激活时发起推送通知的 Push API 与 Notification API 等等。
+Progressive Web Apps（以下简称 PWA）以及构成 PWA 的一系列关键技术的出现，终于让我们看到了彻底解决这两个平台级别问题的曙光：能够显着提高应用加载速度、甚至让 web 应用可以在离线环境使用的 Service Worker 与 Cache Storage；用于描述 web 应用元数据（metadata）、让 web 应用能够像原生应用一样被添加到主屏、全屏执行的 Web App Manifest；以及进一步提高 web 应用与操作系统集成能力，让 web 应用能在未被激活时发起推送通知的 Push API 与 Notification API 等等。
 
 将这些技术组合在一起会是怎样的效果呢？「印度阿里巴巴」 —— [Flipkart][17] 在 2015 年一度关闭了自己的移动端网站，却在年底发布了现在最为人津津乐道的 PWA 案例 *FlipKart Lite*，成为世界上第一个支撑大规模业务的 PWA。发布的一周后它就亮相于 [Chrome Dev Summit 2015][15] 上，笔者当时就被惊艳到了。为了方便各媒介上的读者观看，笔者做了几幅图方便给大家介绍：
 
