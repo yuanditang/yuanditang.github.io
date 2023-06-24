@@ -10,6 +10,7 @@ tags:
   - SF (软件基础)
   - Coq
   - 笔记
+published: false
 ---
 
 > "Algorithms are the computational content of proofs." —Robert Harper
