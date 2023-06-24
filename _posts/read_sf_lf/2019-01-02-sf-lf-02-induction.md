@@ -10,6 +10,7 @@ tags:
   - SF (软件基础)
   - Coq
   - 笔记
+published: false
 ---
 
 ## Review (only in slide)
