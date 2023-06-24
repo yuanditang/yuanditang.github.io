@@ -10,6 +10,7 @@ tags:
   - PLF (编程语言基础)
   - Coq
   - 笔记
+published: false
 ---
 
 > The `has_type` relation is good but doesn't give us a _executable algorithm_ -- 不是一个算法
