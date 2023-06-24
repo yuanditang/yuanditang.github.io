@@ -4,12 +4,12 @@ subtitle: "「数据表示」待写"
 layout: post
 author: "Hux"
 header-style: text
-published: false
 tags:
   - 笔记
   - 基础
   - C
   - C++
+published: false
 ---
 
 - Endianness
