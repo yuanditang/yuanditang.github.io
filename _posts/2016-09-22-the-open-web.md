@@ -8,6 +8,7 @@ header-mask: 0.4
 tags:
   - Web
   - 微信
+published: false
 ---
 
 > 本文首发于我的知乎专栏 [The Little Programmer](https://zhuanlan.zhihu.com/p/22561084)，转载请保留链接 ;)
@@ -28,11 +29,11 @@ tags:
 
 很多不求甚解的从业人士也好不到哪去，Web 常年在技术文章中被翻译得不知所云。
 
-中文世界里把这件事讲得最清楚也最在乎的，非 [@不鳥萬如一](//www.zhihu.com/people/6bec872206d9884cd9535841b6a1f510) 莫属了。
+中文世界里把这件事讲得最清楚也最在乎的，非 [@不鸟万如一](//www.zhihu.com/people/6bec872206d9884cd9535841b6a1f510) 莫属了。
 
-比如在[《一天世界》博客：微信并不是在「管理」外部链接，因为微信公众号在事实上（de facto）不允许任何外部链接 - 不鳥萬通讯 - 知乎专栏](https://zhuanlan.zhihu.com/p/20747514) 里他写到：
+比如在[《一天世界》博客：微信并不是在「管理」外部链接，因为微信公众号在事实上（de facto）不允许任何外部链接 - 不鸟万通讯 - 知乎专栏](https://zhuanlan.zhihu.com/p/20747514) 里他写到：
 
-> 中文世界一直混淆[互联网](https://en.wikipedia.org/wiki/Internet)（internet）和[万维网](https://en.wikipedia.org/wiki/World_Wide_Web)（web）。人们念兹在兹的「互联网开放精神」，实乃万维网的开放精神。万维网的开放主要就体现在一点：**任何万维网上的文章之间都可以通过网址随意互相链接**。如果我想在文章里介绍 UbuWeb 这个网站，我就可以直接在 [UbuWeb](https://ubu.com/) 这六个字母上添加它的网址 ubu.com。妳或许觉得这是废话，但在微信公众号的文章里妳做不到；妳只能添加微信生态圈内的链接，比如这个：[https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_external_links_content_management_specification](https://weixin.qq.com/cgi-bin/readtemplate%3Ft%3Dweixin_external_links_content_management_specification)（即上述《规范》的链接）
+> 中文世界一直混淆[互联网](https://en.wikipedia.org/wiki/Internet)（internet）和[万维网](https://en.wikipedia.org/wiki/World_Wide_Web)（web）。人们念兹在兹的「互联网开放精神」，实乃万维网的开放精神。万维网的开放主要就体现在一点：**任何万维网上的文章之间都可以通过网址随意互相链接**。如果我想在文章里介绍 UbuWeb 这个网站，我就可以直接在 [UbuWeb](https://ubu.com/) 这六个字母上添加它的网址 ubu.com。你或许觉得这是废话，但在微信公众号的文章里你做不到；你只能添加微信生态圈内的链接，比如这个：[https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_external_links_content_management_specification](https://weixin.qq.com/cgi-bin/readtemplate%3Ft%3Dweixin_external_links_content_management_specification)（即上述《规范》的链接）
 
 所以如一卸了微信（ [告别微信 一天世界](https://blog.yitianshijie.net/2016/02/21/byebye-wechat/) ）还写了：[微信——事实上的局域网](https://blog.yitianshijie.net/2015/11/16/wechat-de-facto-lan/) ，嗯，作为一个愈发对 Open Web 这件事 hardcore 的人来说，我是认同的。
 
