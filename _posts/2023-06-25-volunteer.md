@@ -2,7 +2,7 @@
 layout: post
 title: "The Short Staff and Volunteer Dilemma: Reigniting the Spirit of Volunteering"
 author: "Yuandi Tang"
-header-img: "img/volunteer.jpg"
+header-img: "img/VOLUNTEER.jpg"
 header-mask: 0.4
 tags:
   - blog
