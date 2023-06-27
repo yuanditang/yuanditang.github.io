@@ -10,7 +10,6 @@ tags:
 ---
 
 # Yuandi Portfolio
-Example data science portfolio
 
 # [Project 1: Mining on the of Data Scientist Job Descriptions Using Bert](https://github.com/yuanditang/Most-popular-restaurant-US-2021)  
 
