@@ -90,5 +90,8 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
- Friends
-friends:[{ title: "Wei", href: "https://weisblog.github.io/" }]
+# Friends
+friends:
+  [
+    { title: "Wei", href: "https://weisblog.github.io/" }
+  ]
