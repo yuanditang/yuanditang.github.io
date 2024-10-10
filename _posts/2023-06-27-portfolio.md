@@ -21,3 +21,12 @@ tags:
 
 # [Project 5: Database Warehousing on Travel Data](https://github.com/yuanditang/Database-Warehousing-On-Travel-Data)
 
+# [Project 6: Multi-class Disease Type Prediction](https://github.com/yuanditang/Multi-class-Disease-Type-Prediction)
+
+# [Project 7: A/B Testing on Games](https://github.com/yuanditang/A-B-Testing-on-Games))
+
+# [Project 8: Crazykitchen Database](https://github.com/yuanditang/crazykitchen-db))
+
+# [Project 9: Harvard_HDSI Agri Datathon](https://github.com/yuanditang/havard_agri_project))
+
+
